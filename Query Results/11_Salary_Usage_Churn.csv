@@ -1,0 +1,4 @@
+Salary_Group,Average_Calls,Average_SMS,Average_Data_Usage,Total_Churned,Total_Customers,Churn_Rate
+Medium Salary,49.04,23.93,5003.66,18924,93730,20.189907180198443
+Low Salary,48.96,23.9,5001.58,11299,56129,20.130413868053946
+High Salary,49.01,23.98,4977.67,18604,93694,19.856127393429674

@@ -1,0 +1,673 @@
+telecom_partner,state,Age_Group,Total_Customer
+Reliance Jio,Chhattisgarh,35-44,433
+Reliance Jio,Maharashtra,35-44,432
+Reliance Jio,Uttarakhand,45-54,431
+Reliance Jio,Bihar,25-34,430
+Reliance Jio,Madhya Pradesh,65+,430
+Airtel,Punjab,55-64,427
+Reliance Jio,Kerala,25-34,426
+Reliance Jio,Uttarakhand,65+,425
+BSNL,Nagaland,45-54,425
+Vodafone,Haryana,25-34,424
+Vodafone,Haryana,35-44,423
+Airtel,Bihar,45-54,421
+Reliance Jio,Karnataka,35-44,421
+Airtel,Kerala,35-44,419
+BSNL,Himachal Pradesh,35-44,418
+Reliance Jio,Haryana,35-44,418
+BSNL,Meghalaya,55-64,417
+Reliance Jio,Karnataka,65+,417
+Vodafone,Maharashtra,45-54,417
+Vodafone,Jharkhand,45-54,417
+Reliance Jio,Tripura,65+,416
+BSNL,Jharkhand,65+,416
+Airtel,Arunachal Pradesh,35-44,416
+Vodafone,Uttar Pradesh,45-54,415
+BSNL,Chhattisgarh,55-64,415
+Vodafone,Odisha,35-44,414
+Vodafone,Sikkim,35-44,414
+Vodafone,Maharashtra,35-44,414
+Airtel,West Bengal,65+,414
+BSNL,Meghalaya,45-54,414
+Airtel,Arunachal Pradesh,45-54,413
+Reliance Jio,Goa,25-34,413
+Airtel,Karnataka,65+,413
+Reliance Jio,Telangana,45-54,413
+Vodafone,Rajasthan,55-64,413
+BSNL,Madhya Pradesh,65+,412
+Airtel,Tripura,65+,412
+Airtel,Rajasthan,45-54,411
+Reliance Jio,West Bengal,55-64,411
+Airtel,Odisha,65+,411
+Vodafone,Karnataka,45-54,411
+Vodafone,Andhra Pradesh,55-64,411
+Vodafone,Assam,35-44,411
+Airtel,Rajasthan,55-64,410
+Reliance Jio,Assam,25-34,410
+Reliance Jio,Andhra Pradesh,55-64,409
+Airtel,Gujarat,55-64,409
+Airtel,Tamil Nadu,55-64,409
+Reliance Jio,Andhra Pradesh,65+,409
+Airtel,Himachal Pradesh,45-54,408
+BSNL,Rajasthan,45-54,408
+Reliance Jio,Maharashtra,45-54,407
+BSNL,Meghalaya,35-44,407
+Airtel,Haryana,55-64,407
+Airtel,Karnataka,35-44,407
+Airtel,Uttar Pradesh,35-44,407
+Airtel,Telangana,55-64,407
+Vodafone,Himachal Pradesh,45-54,406
+Airtel,Maharashtra,35-44,406
+Reliance Jio,Nagaland,25-34,406
+BSNL,Arunachal Pradesh,45-54,406
+Vodafone,Mizoram,35-44,406
+BSNL,Madhya Pradesh,35-44,406
+Airtel,Assam,55-64,406
+Vodafone,Tamil Nadu,65+,405
+Reliance Jio,Madhya Pradesh,25-34,404
+Vodafone,Jharkhand,35-44,404
+BSNL,Sikkim,65+,404
+Vodafone,Arunachal Pradesh,55-64,403
+BSNL,Odisha,35-44,403
+Vodafone,West Bengal,65+,403
+Airtel,Rajasthan,35-44,403
+Vodafone,Meghalaya,45-54,403
+Reliance Jio,Tamil Nadu,65+,402
+BSNL,Manipur,65+,402
+Reliance Jio,Uttarakhand,25-34,402
+Vodafone,Chhattisgarh,65+,402
+Airtel,Manipur,35-44,402
+Airtel,Goa,25-34,401
+Vodafone,Manipur,65+,401
+Reliance Jio,Nagaland,35-44,401
+Reliance Jio,Assam,55-64,401
+Vodafone,Jharkhand,65+,401
+Vodafone,Haryana,45-54,401
+Vodafone,Tamil Nadu,45-54,400
+Airtel,Madhya Pradesh,65+,400
+BSNL,Chhattisgarh,25-34,400
+Airtel,Odisha,35-44,400
+BSNL,Karnataka,45-54,400
+Reliance Jio,Assam,45-54,400
+Reliance Jio,Madhya Pradesh,55-64,399
+Reliance Jio,Chhattisgarh,45-54,399
+Airtel,Uttarakhand,25-34,399
+Airtel,Nagaland,65+,399
+Airtel,Maharashtra,65+,399
+Reliance Jio,Manipur,25-34,399
+Reliance Jio,Telangana,55-64,399
+Vodafone,Uttarakhand,25-34,399
+BSNL,Andhra Pradesh,55-64,399
+Reliance Jio,Jharkhand,45-54,399
+BSNL,Jharkhand,45-54,399
+Reliance Jio,Mizoram,45-54,398
+BSNL,Mizoram,45-54,398
+BSNL,Odisha,65+,398
+Vodafone,Karnataka,35-44,398
+Reliance Jio,Madhya Pradesh,45-54,398
+Reliance Jio,Jharkhand,65+,397
+Airtel,Manipur,55-64,397
+Reliance Jio,West Bengal,25-34,397
+BSNL,Tripura,25-34,397
+Reliance Jio,Uttarakhand,55-64,397
+BSNL,Punjab,65+,397
+Airtel,Goa,45-54,397
+Vodafone,Telangana,35-44,397
+Airtel,Chhattisgarh,65+,397
+BSNL,Odisha,55-64,397
+Airtel,Sikkim,65+,397
+BSNL,Uttarakhand,65+,397
+Airtel,Sikkim,55-64,397
+Reliance Jio,Rajasthan,55-64,396
+Airtel,Madhya Pradesh,45-54,396
+BSNL,Gujarat,45-54,396
+BSNL,Tamil Nadu,55-64,396
+Airtel,Uttarakhand,65+,396
+Reliance Jio,Tamil Nadu,55-64,396
+BSNL,Gujarat,35-44,396
+Reliance Jio,Goa,55-64,396
+Vodafone,Sikkim,55-64,395
+Vodafone,Uttarakhand,35-44,395
+BSNL,Gujarat,65+,395
+Reliance Jio,Kerala,35-44,395
+Reliance Jio,Chhattisgarh,65+,395
+Airtel,Mizoram,25-34,395
+BSNL,Maharashtra,45-54,395
+BSNL,Chhattisgarh,35-44,395
+Vodafone,Uttar Pradesh,65+,395
+BSNL,Maharashtra,65+,395
+Reliance Jio,Andhra Pradesh,35-44,394
+BSNL,Kerala,35-44,394
+Reliance Jio,Karnataka,55-64,394
+Vodafone,Goa,55-64,394
+Vodafone,Uttar Pradesh,25-34,394
+Vodafone,Telangana,65+,394
+Airtel,Meghalaya,45-54,393
+Airtel,Kerala,65+,393
+Vodafone,Goa,25-34,393
+Airtel,West Bengal,35-44,393
+BSNL,Assam,55-64,393
+Reliance Jio,Sikkim,25-34,393
+Reliance Jio,Uttar Pradesh,55-64,393
+Vodafone,Andhra Pradesh,65+,393
+Vodafone,Uttar Pradesh,55-64,393
+Airtel,Punjab,25-34,393
+Airtel,Meghalaya,65+,393
+Reliance Jio,Bihar,45-54,393
+Vodafone,Arunachal Pradesh,65+,392
+BSNL,Telangana,65+,392
+Airtel,Odisha,55-64,392
+Airtel,Uttarakhand,55-64,392
+Airtel,Punjab,45-54,392
+Vodafone,Arunachal Pradesh,35-44,392
+BSNL,Mizoram,25-34,392
+Vodafone,Kerala,65+,392
+BSNL,Odisha,25-34,392
+Airtel,Bihar,55-64,391
+Reliance Jio,Goa,35-44,391
+Vodafone,Uttarakhand,45-54,391
+Vodafone,Uttarakhand,55-64,391
+Airtel,Maharashtra,45-54,391
+Reliance Jio,Odisha,55-64,391
+Reliance Jio,Punjab,65+,391
+BSNL,Punjab,35-44,390
+Vodafone,Bihar,55-64,390
+Airtel,Tamil Nadu,25-34,390
+Reliance Jio,Punjab,35-44,390
+BSNL,Kerala,55-64,390
+Airtel,Tripura,55-64,390
+Reliance Jio,West Bengal,35-44,390
+Vodafone,Tripura,35-44,389
+BSNL,Tripura,45-54,389
+Airtel,Manipur,65+,389
+Reliance Jio,Goa,45-54,389
+BSNL,Punjab,55-64,389
+BSNL,Haryana,55-64,389
+BSNL,Maharashtra,35-44,389
+Airtel,Himachal Pradesh,55-64,389
+BSNL,Arunachal Pradesh,65+,389
+Airtel,Haryana,65+,388
+BSNL,West Bengal,35-44,388
+Airtel,Odisha,45-54,388
+Airtel,Jharkhand,45-54,388
+BSNL,Tripura,55-64,388
+Vodafone,Manipur,25-34,388
+Reliance Jio,Meghalaya,65+,388
+Vodafone,Nagaland,55-64,388
+BSNL,Andhra Pradesh,65+,388
+Airtel,Madhya Pradesh,55-64,388
+Reliance Jio,Tripura,25-34,388
+BSNL,Tamil Nadu,45-54,387
+Airtel,Madhya Pradesh,35-44,387
+Reliance Jio,Odisha,35-44,387
+BSNL,Kerala,45-54,387
+BSNL,Karnataka,55-64,387
+Airtel,Andhra Pradesh,35-44,387
+Airtel,Odisha,25-34,387
+Reliance Jio,Sikkim,45-54,387
+Reliance Jio,Odisha,65+,387
+Vodafone,Tripura,55-64,387
+Vodafone,Maharashtra,55-64,387
+Vodafone,Himachal Pradesh,25-34,386
+BSNL,Jharkhand,55-64,386
+BSNL,Odisha,45-54,386
+Reliance Jio,Gujarat,45-54,386
+Vodafone,Punjab,55-64,386
+Reliance Jio,Meghalaya,55-64,386
+Reliance Jio,Mizoram,25-34,386
+Reliance Jio,Himachal Pradesh,55-64,386
+Reliance Jio,Jharkhand,25-34,385
+Reliance Jio,Gujarat,65+,385
+Reliance Jio,Meghalaya,35-44,385
+Reliance Jio,Himachal Pradesh,25-34,385
+Reliance Jio,Nagaland,65+,385
+Airtel,Andhra Pradesh,45-54,385
+Airtel,Himachal Pradesh,65+,385
+Vodafone,Kerala,55-64,385
+Vodafone,Mizoram,25-34,385
+Vodafone,Mizoram,45-54,385
+BSNL,Tamil Nadu,65+,385
+Vodafone,Tamil Nadu,25-34,385
+Reliance Jio,Arunachal Pradesh,35-44,385
+Vodafone,Bihar,35-44,385
+BSNL,Arunachal Pradesh,55-64,385
+Vodafone,Chhattisgarh,55-64,385
+Vodafone,Haryana,65+,385
+BSNL,Rajasthan,55-64,384
+Airtel,Arunachal Pradesh,55-64,384
+Airtel,Gujarat,45-54,384
+Reliance Jio,Telangana,65+,384
+Reliance Jio,Rajasthan,65+,384
+Reliance Jio,Karnataka,25-34,384
+Airtel,Punjab,35-44,384
+BSNL,Uttar Pradesh,55-64,384
+BSNL,Haryana,65+,384
+Reliance Jio,Maharashtra,65+,384
+Vodafone,Bihar,45-54,384
+BSNL,Assam,25-34,384
+Reliance Jio,Arunachal Pradesh,45-54,384
+Vodafone,Meghalaya,55-64,384
+BSNL,Manipur,45-54,384
+BSNL,Rajasthan,35-44,384
+BSNL,Uttar Pradesh,45-54,383
+Vodafone,Tamil Nadu,35-44,383
+BSNL,Maharashtra,25-34,383
+Airtel,Madhya Pradesh,25-34,383
+BSNL,Manipur,25-34,383
+BSNL,Telangana,35-44,383
+Vodafone,Mizoram,55-64,383
+Airtel,Jharkhand,35-44,383
+Reliance Jio,Telangana,25-34,383
+Airtel,Tamil Nadu,35-44,383
+BSNL,Bihar,25-34,383
+BSNL,Assam,65+,383
+BSNL,Goa,55-64,383
+Vodafone,Haryana,55-64,383
+Vodafone,Rajasthan,45-54,382
+Reliance Jio,Meghalaya,25-34,382
+BSNL,Goa,45-54,382
+BSNL,Jharkhand,25-34,382
+Vodafone,Karnataka,55-64,382
+Airtel,Tripura,45-54,382
+BSNL,Himachal Pradesh,25-34,382
+BSNL,Gujarat,55-64,382
+Reliance Jio,Himachal Pradesh,35-44,382
+Reliance Jio,Himachal Pradesh,65+,382
+BSNL,Goa,35-44,382
+BSNL,Karnataka,35-44,382
+BSNL,Gujarat,25-34,382
+Vodafone,Meghalaya,65+,382
+Airtel,Meghalaya,35-44,382
+Airtel,Assam,25-34,382
+Vodafone,Punjab,25-34,382
+Vodafone,Nagaland,45-54,381
+BSNL,Mizoram,55-64,381
+Vodafone,Tripura,25-34,381
+Vodafone,Gujarat,45-54,381
+Airtel,Tamil Nadu,65+,381
+BSNL,Rajasthan,65+,381
+BSNL,Jharkhand,35-44,381
+Reliance Jio,Mizoram,65+,381
+Vodafone,Himachal Pradesh,65+,381
+Airtel,Uttar Pradesh,55-64,381
+Vodafone,West Bengal,45-54,380
+Vodafone,Odisha,45-54,380
+BSNL,Meghalaya,65+,380
+Vodafone,Punjab,65+,380
+Vodafone,Nagaland,65+,380
+Airtel,West Bengal,45-54,380
+Vodafone,Rajasthan,35-44,380
+BSNL,Arunachal Pradesh,35-44,380
+BSNL,Uttar Pradesh,25-34,380
+Airtel,Andhra Pradesh,25-34,380
+Airtel,Karnataka,55-64,380
+Reliance Jio,Punjab,55-64,380
+BSNL,Tamil Nadu,25-34,379
+Reliance Jio,Arunachal Pradesh,65+,379
+Vodafone,Telangana,55-64,379
+Airtel,Chhattisgarh,45-54,379
+BSNL,Telangana,45-54,379
+Reliance Jio,Uttar Pradesh,65+,379
+BSNL,Maharashtra,55-64,379
+Reliance Jio,Gujarat,35-44,379
+Vodafone,Rajasthan,25-34,379
+BSNL,Himachal Pradesh,65+,378
+Reliance Jio,Sikkim,55-64,378
+Vodafone,Goa,35-44,378
+BSNL,Karnataka,65+,378
+Airtel,Bihar,35-44,378
+Vodafone,Odisha,55-64,378
+Vodafone,Himachal Pradesh,55-64,378
+Reliance Jio,Kerala,45-54,378
+Vodafone,Madhya Pradesh,25-34,377
+Reliance Jio,Uttar Pradesh,45-54,377
+Airtel,Goa,55-64,377
+BSNL,Mizoram,35-44,377
+Airtel,Manipur,45-54,377
+Reliance Jio,Arunachal Pradesh,25-34,377
+Vodafone,Arunachal Pradesh,45-54,377
+Vodafone,Kerala,25-34,376
+Airtel,Meghalaya,25-34,376
+Airtel,Haryana,45-54,376
+Vodafone,Sikkim,45-54,376
+Vodafone,Madhya Pradesh,65+,376
+Reliance Jio,Rajasthan,45-54,376
+BSNL,Andhra Pradesh,45-54,376
+BSNL,Uttarakhand,25-34,376
+Reliance Jio,Rajasthan,25-34,376
+BSNL,Andhra Pradesh,25-34,376
+Reliance Jio,Tamil Nadu,45-54,376
+BSNL,Telangana,55-64,376
+BSNL,Sikkim,25-34,376
+BSNL,Sikkim,55-64,376
+BSNL,Telangana,25-34,376
+Airtel,Karnataka,25-34,375
+Airtel,Jharkhand,25-34,375
+Airtel,Uttar Pradesh,25-34,375
+BSNL,Assam,45-54,375
+Reliance Jio,Tripura,35-44,375
+Reliance Jio,Uttar Pradesh,35-44,375
+Vodafone,Arunachal Pradesh,25-34,375
+Airtel,Goa,35-44,375
+Airtel,Maharashtra,25-34,375
+Airtel,Kerala,55-64,375
+Vodafone,Sikkim,25-34,374
+Vodafone,Sikkim,65+,374
+Reliance Jio,Himachal Pradesh,45-54,374
+Airtel,Jharkhand,65+,374
+Vodafone,West Bengal,55-64,374
+Reliance Jio,Chhattisgarh,55-64,374
+BSNL,Uttarakhand,55-64,374
+Vodafone,Bihar,25-34,374
+Reliance Jio,Meghalaya,45-54,374
+Reliance Jio,Haryana,55-64,373
+Airtel,Mizoram,65+,373
+Vodafone,Kerala,45-54,373
+Vodafone,Karnataka,65+,373
+Reliance Jio,Goa,65+,373
+BSNL,Tamil Nadu,35-44,373
+Reliance Jio,Maharashtra,55-64,373
+BSNL,Manipur,35-44,373
+Vodafone,Bihar,65+,373
+Vodafone,Odisha,65+,373
+Reliance Jio,Maharashtra,25-34,373
+BSNL,Madhya Pradesh,55-64,373
+Airtel,Telangana,25-34,373
+Airtel,Gujarat,65+,372
+Reliance Jio,Manipur,45-54,372
+BSNL,West Bengal,55-64,372
+Reliance Jio,Gujarat,55-64,372
+BSNL,Rajasthan,25-34,372
+BSNL,Sikkim,45-54,372
+Reliance Jio,Chhattisgarh,25-34,372
+Vodafone,Andhra Pradesh,45-54,372
+Vodafone,Gujarat,65+,372
+BSNL,Arunachal Pradesh,25-34,372
+Reliance Jio,Mizoram,35-44,372
+Airtel,Kerala,45-54,372
+Vodafone,Manipur,45-54,372
+Airtel,Punjab,65+,372
+Reliance Jio,Uttar Pradesh,25-34,372
+Vodafone,Kerala,35-44,371
+Airtel,Assam,65+,371
+Airtel,Karnataka,45-54,371
+Vodafone,Chhattisgarh,45-54,371
+BSNL,Haryana,45-54,371
+Airtel,Nagaland,45-54,371
+Reliance Jio,Bihar,35-44,371
+Airtel,Manipur,25-34,371
+Vodafone,West Bengal,35-44,370
+Airtel,Gujarat,35-44,370
+Reliance Jio,Odisha,45-54,370
+Airtel,West Bengal,55-64,370
+Airtel,Tamil Nadu,45-54,370
+Vodafone,Jharkhand,55-64,370
+Reliance Jio,Haryana,25-34,369
+Reliance Jio,Jharkhand,35-44,369
+Airtel,Tripura,25-34,369
+Reliance Jio,Kerala,55-64,369
+Vodafone,Gujarat,25-34,369
+Reliance Jio,Gujarat,25-34,369
+Reliance Jio,Kerala,65+,369
+Vodafone,Maharashtra,65+,369
+Reliance Jio,Bihar,65+,369
+Airtel,Andhra Pradesh,65+,368
+Reliance Jio,Jharkhand,55-64,368
+BSNL,Mizoram,65+,368
+Reliance Jio,Manipur,35-44,368
+BSNL,Karnataka,25-34,368
+BSNL,Sikkim,35-44,368
+BSNL,Tripura,35-44,368
+Vodafone,Maharashtra,25-34,368
+Airtel,Mizoram,55-64,368
+Reliance Jio,Sikkim,35-44,368
+BSNL,Uttarakhand,35-44,368
+BSNL,Kerala,65+,368
+Airtel,Andhra Pradesh,55-64,368
+Reliance Jio,Haryana,65+,368
+Airtel,Maharashtra,55-64,368
+Airtel,Uttar Pradesh,65+,368
+Vodafone,Meghalaya,25-34,368
+Vodafone,Manipur,55-64,368
+BSNL,Nagaland,25-34,367
+Vodafone,Uttarakhand,65+,367
+BSNL,Uttarakhand,45-54,367
+BSNL,Punjab,25-34,367
+BSNL,Punjab,45-54,367
+BSNL,Nagaland,35-44,367
+Vodafone,Andhra Pradesh,25-34,367
+Vodafone,Meghalaya,35-44,367
+Reliance Jio,Nagaland,45-54,367
+Airtel,Arunachal Pradesh,25-34,367
+Airtel,Arunachal Pradesh,65+,366
+Vodafone,Tamil Nadu,55-64,366
+BSNL,Meghalaya,25-34,366
+Reliance Jio,Haryana,45-54,366
+Reliance Jio,Tripura,55-64,366
+BSNL,Nagaland,65+,366
+Airtel,Sikkim,45-54,366
+Vodafone,Gujarat,35-44,366
+Airtel,Telangana,45-54,366
+Airtel,Uttarakhand,35-44,366
+Airtel,West Bengal,25-34,365
+BSNL,Himachal Pradesh,45-54,365
+Vodafone,Assam,25-34,365
+Vodafone,Goa,45-54,365
+Airtel,Nagaland,35-44,365
+Airtel,Mizoram,45-54,365
+Airtel,Rajasthan,65+,365
+BSNL,Chhattisgarh,65+,365
+Vodafone,Tripura,65+,365
+Reliance Jio,Telangana,35-44,365
+Airtel,Chhattisgarh,35-44,364
+Vodafone,West Bengal,25-34,364
+Vodafone,Uttar Pradesh,35-44,364
+BSNL,Bihar,35-44,364
+Vodafone,Chhattisgarh,35-44,364
+Airtel,Nagaland,25-34,364
+BSNL,Bihar,65+,364
+Airtel,Jharkhand,55-64,364
+Airtel,Sikkim,25-34,364
+Vodafone,Chhattisgarh,25-34,363
+Reliance Jio,Manipur,65+,363
+Vodafone,Tripura,45-54,363
+Airtel,Haryana,35-44,363
+Vodafone,Madhya Pradesh,55-64,363
+Vodafone,Madhya Pradesh,35-44,363
+BSNL,Himachal Pradesh,55-64,363
+BSNL,Haryana,25-34,363
+Airtel,Telangana,35-44,363
+BSNL,Kerala,25-34,363
+Vodafone,Gujarat,55-64,363
+BSNL,Goa,65+,363
+Airtel,Uttar Pradesh,45-54,362
+Vodafone,Himachal Pradesh,35-44,362
+Airtel,Haryana,25-34,362
+Reliance Jio,Arunachal Pradesh,55-64,362
+BSNL,Nagaland,55-64,362
+Reliance Jio,Rajasthan,35-44,362
+BSNL,Madhya Pradesh,25-34,361
+Reliance Jio,Mizoram,55-64,361
+Reliance Jio,Uttarakhand,35-44,361
+BSNL,Uttar Pradesh,65+,361
+Airtel,Telangana,65+,361
+Airtel,Uttarakhand,45-54,361
+Vodafone,Goa,65+,361
+Reliance Jio,West Bengal,65+,360
+Reliance Jio,Manipur,55-64,360
+BSNL,Haryana,35-44,360
+Reliance Jio,Sikkim,65+,360
+Reliance Jio,Punjab,45-54,360
+Airtel,Sikkim,35-44,360
+Reliance Jio,Tripura,45-54,359
+Reliance Jio,Madhya Pradesh,35-44,359
+Airtel,Chhattisgarh,55-64,359
+Vodafone,Madhya Pradesh,45-54,359
+Vodafone,Jharkhand,25-34,359
+Vodafone,Assam,55-64,359
+Vodafone,Mizoram,65+,359
+Airtel,Bihar,65+,359
+BSNL,Madhya Pradesh,45-54,358
+Airtel,Rajasthan,25-34,358
+BSNL,Bihar,55-64,358
+Vodafone,Rajasthan,65+,358
+Airtel,Bihar,25-34,358
+BSNL,West Bengal,65+,358
+Airtel,Himachal Pradesh,25-34,358
+Airtel,Nagaland,55-64,357
+Vodafone,Punjab,45-54,357
+BSNL,Tripura,65+,357
+Reliance Jio,Tamil Nadu,25-34,357
+BSNL,Uttar Pradesh,35-44,357
+Reliance Jio,Bihar,55-64,356
+Reliance Jio,Odisha,25-34,356
+Vodafone,Telangana,45-54,356
+Vodafone,Assam,45-54,356
+BSNL,Assam,35-44,356
+BSNL,Bihar,45-54,356
+Vodafone,Nagaland,35-44,356
+Vodafone,Nagaland,25-34,355
+Airtel,Chhattisgarh,25-34,355
+Airtel,Assam,35-44,355
+Vodafone,Karnataka,25-34,355
+BSNL,Manipur,55-64,355
+Reliance Jio,Assam,65+,355
+BSNL,Goa,25-34,354
+BSNL,West Bengal,45-54,353
+Reliance Jio,Punjab,25-34,351
+Airtel,Tripura,35-44,349
+Vodafone,Telangana,25-34,349
+Vodafone,Manipur,35-44,349
+BSNL,West Bengal,25-34,348
+Airtel,Kerala,25-34,348
+Vodafone,Punjab,35-44,348
+Vodafone,Odisha,25-34,347
+Vodafone,Andhra Pradesh,35-44,347
+Airtel,Himachal Pradesh,35-44,347
+Reliance Jio,Andhra Pradesh,25-34,345
+Airtel,Assam,45-54,344
+Reliance Jio,Andhra Pradesh,45-54,344
+Reliance Jio,West Bengal,45-54,344
+Airtel,Meghalaya,55-64,344
+BSNL,Andhra Pradesh,35-44,343
+Vodafone,Assam,65+,343
+Airtel,Gujarat,25-34,342
+Reliance Jio,Assam,35-44,342
+BSNL,Chhattisgarh,45-54,341
+Airtel,Goa,65+,339
+Reliance Jio,Karnataka,45-54,338
+Airtel,Mizoram,35-44,333
+Reliance Jio,Tamil Nadu,35-44,331
+Reliance Jio,Nagaland,55-64,328
+Vodafone,Madhya Pradesh,Under 25,298
+Reliance Jio,Uttar Pradesh,Under 25,298
+Reliance Jio,Uttarakhand,Under 25,296
+Reliance Jio,Mizoram,Under 25,295
+Vodafone,Bihar,Under 25,294
+Airtel,Karnataka,Under 25,293
+Reliance Jio,Karnataka,Under 25,290
+Airtel,Kerala,Under 25,290
+Airtel,Meghalaya,Under 25,287
+Airtel,Uttar Pradesh,Under 25,287
+Vodafone,Sikkim,Under 25,287
+Vodafone,Himachal Pradesh,Under 25,286
+BSNL,Madhya Pradesh,Under 25,286
+Airtel,Goa,Under 25,286
+Reliance Jio,Telangana,Under 25,286
+Airtel,Bihar,Under 25,284
+BSNL,Arunachal Pradesh,Under 25,283
+Vodafone,Odisha,Under 25,283
+BSNL,Uttar Pradesh,Under 25,282
+Airtel,Uttarakhand,Under 25,282
+BSNL,Andhra Pradesh,Under 25,281
+BSNL,Manipur,Under 25,280
+Airtel,Himachal Pradesh,Under 25,280
+Airtel,Mizoram,Under 25,279
+BSNL,Tripura,Under 25,279
+Reliance Jio,Andhra Pradesh,Under 25,277
+BSNL,Rajasthan,Under 25,277
+Reliance Jio,Chhattisgarh,Under 25,277
+BSNL,Telangana,Under 25,277
+Vodafone,Uttarakhand,Under 25,277
+Reliance Jio,Assam,Under 25,276
+Reliance Jio,Tamil Nadu,Under 25,276
+Airtel,Madhya Pradesh,Under 25,276
+Reliance Jio,Nagaland,Under 25,276
+BSNL,Mizoram,Under 25,275
+BSNL,Goa,Under 25,275
+Vodafone,Karnataka,Under 25,275
+Vodafone,Mizoram,Under 25,274
+Reliance Jio,Sikkim,Under 25,273
+Vodafone,Telangana,Under 25,273
+Airtel,Nagaland,Under 25,273
+Vodafone,Haryana,Under 25,273
+Airtel,Sikkim,Under 25,272
+Airtel,Manipur,Under 25,270
+BSNL,Kerala,Under 25,269
+Airtel,Tamil Nadu,Under 25,269
+Vodafone,Tripura,Under 25,269
+Reliance Jio,Punjab,Under 25,268
+Reliance Jio,Himachal Pradesh,Under 25,268
+Reliance Jio,Manipur,Under 25,268
+Reliance Jio,Rajasthan,Under 25,268
+Vodafone,Andhra Pradesh,Under 25,268
+Vodafone,Gujarat,Under 25,268
+BSNL,Haryana,Under 25,268
+Vodafone,Nagaland,Under 25,267
+Airtel,Rajasthan,Under 25,267
+Reliance Jio,Goa,Under 25,267
+Airtel,Arunachal Pradesh,Under 25,267
+Vodafone,Assam,Under 25,266
+Airtel,Gujarat,Under 25,266
+BSNL,Chhattisgarh,Under 25,266
+BSNL,Gujarat,Under 25,266
+Reliance Jio,Jharkhand,Under 25,266
+Airtel,Jharkhand,Under 25,265
+Reliance Jio,Madhya Pradesh,Under 25,265
+Airtel,Tripura,Under 25,265
+Airtel,Haryana,Under 25,264
+BSNL,Jharkhand,Under 25,264
+Airtel,Maharashtra,Under 25,263
+Vodafone,Chhattisgarh,Under 25,263
+Vodafone,Kerala,Under 25,263
+Airtel,Andhra Pradesh,Under 25,262
+Reliance Jio,Haryana,Under 25,262
+Vodafone,West Bengal,Under 25,262
+Reliance Jio,West Bengal,Under 25,261
+BSNL,West Bengal,Under 25,261
+Vodafone,Tamil Nadu,Under 25,261
+Vodafone,Uttar Pradesh,Under 25,260
+Vodafone,Goa,Under 25,260
+Reliance Jio,Kerala,Under 25,260
+Vodafone,Manipur,Under 25,260
+Airtel,Punjab,Under 25,259
+Reliance Jio,Maharashtra,Under 25,259
+BSNL,Assam,Under 25,259
+BSNL,Tamil Nadu,Under 25,258
+BSNL,Sikkim,Under 25,258
+Airtel,Telangana,Under 25,258
+Reliance Jio,Tripura,Under 25,257
+BSNL,Bihar,Under 25,256
+Vodafone,Arunachal Pradesh,Under 25,256
+BSNL,Nagaland,Under 25,256
+Vodafone,Rajasthan,Under 25,256
+Airtel,Assam,Under 25,255
+Airtel,West Bengal,Under 25,254
+BSNL,Karnataka,Under 25,253
+Vodafone,Punjab,Under 25,250
+BSNL,Punjab,Under 25,248
+Vodafone,Maharashtra,Under 25,247
+BSNL,Maharashtra,Under 25,247
+Reliance Jio,Arunachal Pradesh,Under 25,247
+BSNL,Uttarakhand,Under 25,246
+Airtel,Chhattisgarh,Under 25,243
+Vodafone,Jharkhand,Under 25,243
+Reliance Jio,Meghalaya,Under 25,242
+Reliance Jio,Bihar,Under 25,242
+Reliance Jio,Gujarat,Under 25,240
+BSNL,Odisha,Under 25,238
+Vodafone,Meghalaya,Under 25,234
+BSNL,Himachal Pradesh,Under 25,233
+Airtel,Odisha,Under 25,232
+BSNL,Meghalaya,Under 25,230
+Reliance Jio,Odisha,Under 25,222

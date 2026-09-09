@@ -1,0 +1,13 @@
+telecom_partner,Data_Usage_Group,Total_Customers,Churned_Customers,Churn_Rate
+Airtel,Medium Data Usage,24369,5065,20.7846033895523
+Airtel,Low Data Usage,18233,3721,20.408051335490594
+Vodafone,Medium Data Usage,24483,4985,20.36106686272107
+Reliance Jio,Medium Data Usage,24400,4934,20.221311475409838
+Reliance Jio,High Data Usage,18212,3660,20.09663957830002
+Vodafone,High Data Usage,18100,3632,20.066298342541437
+BSNL,Low Data Usage,18341,3652,19.911673300256258
+BSNL,Medium Data Usage,24022,4766,19.84014653234535
+BSNL,High Data Usage,18360,3642,19.836601307189543
+Airtel,High Data Usage,18303,3618,19.76725127028356
+Reliance Jio,Low Data Usage,18511,3640,19.663983577332395
+Vodafone,Low Data Usage,18219,3512,19.276579395136945
